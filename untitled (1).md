@@ -1,8 +1,9 @@
-#this is a level 1 heading
+# this is a level 1 heading
 
-##this is a level 2 heading
-###this is a level 3 heading 
--this is a bullet 
+## this is a level 2 heading
+### this is a level 3 heading 
+
+- this is a bullet 
   this is an indented line
   1. this is a numbered list 
   2. this is a numbered list 
