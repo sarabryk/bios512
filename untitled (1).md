@@ -21,6 +21,6 @@
 
 # let's add coloring - by placing r after the backticks, we will add coloring. 
 ```r
-Library(`tidyverse)
+Library(`tidyverse')
 ```
 
